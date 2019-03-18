@@ -4,7 +4,7 @@
 #
 Name     : R-epitools
 Version  : 0.5.10
-Release  : 7
+Release  : 8
 URL      : https://cran.r-project.org/src/contrib/epitools_0.5-10.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/epitools_0.5-10.tar.gz
 Summary  : Epidemiology Tools
